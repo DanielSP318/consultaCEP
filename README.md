@@ -5,3 +5,5 @@ O Site tem modo escuro (configurado usando JavaScript), ícones de redes sociais
 
 Para abrir esse projeto é necessario um editor de código (recomendo que use o VS Code, dentro do Vs Code)
 
+referencia visual do projeto: https://youtu.be/cD_yRri_L2M 
+
